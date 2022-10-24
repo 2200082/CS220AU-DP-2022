@@ -26,16 +26,19 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-10-24: prepared tomorrow's seminar, added notes from week 2+3, thought about website structure & created files for each page, updated log & todo
 - 2022-10-18: created the github account, private repository, public repository; in general: first steps with github
 - 2022-10-11: introduction into the module, VR method, watching the videos
 
 <br>
 
 ## TODO
-### by week 4
+
+### by week 5
 - think about reserach question
 - VR map
 - definition digital identities
+### by week 4 - done
 - get to know github more
 - copy notes into index notes (private repository)
-- ...
+- create files for future web(sub-)pages
