@@ -35,6 +35,10 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 
+### general
+- update portfolio overview
+- ...
+
 ### by week 5
 - VR map
 - think about reserach question
