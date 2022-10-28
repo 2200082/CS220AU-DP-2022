@@ -8,6 +8,8 @@ This GitHub repository is the assignment for the [CS220AU](https://github.com/kh
 - evaluation with the `assessment.md` and the `dp-checklist.md` files. 
 
 The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
+The research question to be answered with the help of this portfolio is: **How are digital identities connected to existential risks?**
+In order to answer this question, this portfolio will look at digital identities, existential risks and their interrelationship.
 
 <br>
 
@@ -25,7 +27,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
-- 2022-10-28: updated portfolio overview, still needs to be filled with content, when website is done
+- 2022-10-28: updated portfolio overview, still needs to be filled with content, when website is done; selected a research question
 - 2022-10-25: feedback from Krisz, talked about project management
 - 2022-10-24: prepared tomorrow's seminar, added notes from week 2+3, thought about website structure & created files for each page, updated log & todo
 - 2022-10-18: created the github account, private repository, public repository; in general: first steps with github
@@ -38,11 +40,11 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 ### general
 - update portfolio overview
 - ...
-
-### by week 5
+### by week 6
 - VR map
-- think about reserach question
 - definition digital identities / existential risks
+### by week 5
+- think about reserach question
 ### by week 4 - done
 - get to know github more
 - copy notes into index notes (private repository)
