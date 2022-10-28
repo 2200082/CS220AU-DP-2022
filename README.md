@@ -1,6 +1,6 @@
-# CS220AU Digital Portfolio Template (2022)
+# CS220AU Digital Portfolio
 ## Overview
-This GitHub repository is the template for the [CS220AU](https://github.com/khofstadter/CS220AU) assignment in 2022. It demonstrates minimalistic ideas for 
+This GitHub repository is the assignment for the [CS220AU](https://github.com/khofstadter/CS220AU) course in 2022. It demonstrates minimalistic ideas for 
 
 - project management
 - web hosting with [GitHub Pages](https://pages.github.com/) 
@@ -12,20 +12,20 @@ The URL of the website can be found in the sidebar, under 'About'. The homepage 
 <br>
 
 ## Portfolio items
-The portfolio you submit needs to contain the following:
+This portfolio contains the following:
 
-1. **website** (80% of your overall mark) exploring the theme given.
-2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
+1. **website** exploring digital identities, existential risks and critical thinking.
+2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file.
+3. **portfolio overview** providing a succinct overview of the portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
 
 After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
-
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in class. If anything is unclear, ask for clarification. 
+ 
 
 <br>
 
 ## Log
 
+- 2022-10-28: updated portfolio overview, still needs to be filled with content, when website is done
 - 2022-10-25: feedback from Krisz, talked about project management
 - 2022-10-24: prepared tomorrow's seminar, added notes from week 2+3, thought about website structure & created files for each page, updated log & todo
 - 2022-10-18: created the github account, private repository, public repository; in general: first steps with github
