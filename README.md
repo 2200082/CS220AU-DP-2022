@@ -27,6 +27,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
+- 2022-11-07: big website session, created my VR map (still need some feedback!), website introduction
 - 2022-10-28: updated portfolio overview, still needs to be filled with content, when website is done; selected a research question
 - 2022-10-25: feedback from Krisz, talked about project management
 - 2022-10-24: prepared tomorrow's seminar, added notes from week 2+3, thought about website structure & created files for each page, updated log & todo
