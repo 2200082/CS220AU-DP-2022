@@ -27,7 +27,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
-- 2022-11-07: created my VR map (still need some feedback!), big website session: website introduction, step 0: basics, step 1: digital identities
+- 2022-11-07: created my VR map (still need some feedback!), big website session: website introduction, step 0: basics, step 1: digital identities; figured out that i need my own organisation system (just a word document)
 - 2022-10-28: updated portfolio overview, still needs to be filled with content, when website is done; selected a research question
 - 2022-10-25: feedback from Krisz, talked about project management
 - 2022-10-24: prepared tomorrow's seminar, added notes from week 2+3, thought about website structure & created files for each page, updated log & todo
@@ -41,10 +41,13 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 ### general
 - update portfolio overview
 - ...
-### by week 6
+### by week 7 
+- finished digital identities part
+- by chance: starting the existential risks part
+### by week 6 - done
 - VR map
 - definition digital identities / existential risks
-### by week 5
+### by week 5 - done
 - think about reserach question
 ### by week 4 - done
 - get to know github more
