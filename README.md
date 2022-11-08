@@ -45,6 +45,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 ### by week 7 
 - finish digital identities part
 - prepare my presentation
+- peer-feedback-partner!!
 - by chance: start the existential risks part
 ### by week 6 - done
 - VR map
