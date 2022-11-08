@@ -43,9 +43,9 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 - update portfolio overview
 - ...
 ### by week 7 
-- finished digital identities part
-- prepared my presentation
-- by chance: starting the existential risks part
+- finish digital identities part
+- prepare my presentation
+- by chance: start the existential risks part
 ### by week 6 - done
 - VR map
 - definition digital identities / existential risks
