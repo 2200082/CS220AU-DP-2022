@@ -27,7 +27,8 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
-- 2022-11-08: class content: content production
+- 2022-11-13: 	prepared presentation
+- 2022-11-08: 	class content: content production; after class ASH: heads up with Krisz
 - 2022-11-07: created my VR map (still need some feedback!), big website session: website introduction, step 0: basics, step 1: digital identities; figured out that i need my own organisation system (just a word document)
 - 2022-10-28: updated portfolio overview, still needs to be filled with content, when website is done; selected a research question
 - 2022-10-25: feedback from Krisz, talked about project management
@@ -41,12 +42,21 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ### general
 - update portfolio overview
-- ...
-### by week 7 
+- get feedback for the VR map
+- prepare my presentation
+- find a peer-feedback-partner!!
+- find out how to change the website layout
+- create content
+  - refine digital identities part
+  - start the existential risks part
+  - grid: connection between these two
+  - think about questions for critical thinking
+- …
+
+### by week 7 - done
 - finish digital identities part
 - prepare my presentation
-- peer-feedback-partner!!
-- by chance: start the existential risks part
+
 ### by week 6 - done
 - VR map
 - definition digital identities / existential risks
