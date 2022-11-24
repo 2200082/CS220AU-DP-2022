@@ -27,8 +27,11 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
-- 2022-11-13: 	prepared presentation
-- 2022-11-08: 	class content: content production; after class ASH: heads up with Krisz
+- 2022-11-24: decided on a new webpage template, first steps with that, implemented some contents already, still struggling with embedding images, started with overview DI-ER
+- 2022-11-19: created some more content, digitized VR map
+- 2022-11-15: seminar, my presentation, feedback on others presentations, found a peer-feedback partner: aya :), chatted with Krisz about webpage layout template
+- 2022-11-13: prepared presentation
+- 2022-11-08: class content: content production; after class ASH: heads up with Krisz
 - 2022-11-07: created my VR map (still need some feedback!), big website session: website introduction, step 0: basics, step 1: digital identities; figured out that i need my own organisation system (just a word document)
 - 2022-10-28: updated portfolio overview, still needs to be filled with content, when website is done; selected a research question
 - 2022-10-25: feedback from Krisz, talked about project management
@@ -42,27 +45,25 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ### general
 - update portfolio overview
-- get feedback for the VR map
-- prepare my presentation
-- find a peer-feedback-partner!!
-- find out how to change the website layout
+- find out how to embed images / videos
 - create content
   - refine digital identities part
-  - start the existential risks part
-  - grid: connection between these two
+  - refine existential risks part
+  - overview: connection between DI - ER
   - think about questions for critical thinking
 - …
 
-### by week 7 - done
+### done
+- get feedback for the VR map
+- find out how to change the website layout
+- find a peer-feedback-partner!!
+- prepare my presentation
+- digitize VR map
 - finish digital identities part
 - prepare my presentation
-
-### by week 6 - done
 - VR map
 - definition digital identities / existential risks
-### by week 5 - done
 - think about reserach question
-### by week 4 - done
 - get to know github more
 - copy notes into index notes (private repository)
 - create files for future web(sub-)pages
