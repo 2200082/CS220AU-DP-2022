@@ -51,7 +51,13 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
   - refine existential risks part
   - overview: connection between DI - ER
   - think about questions for critical thinking
-- …
+- … <br>
+### problems @krisz
+- images are not shown on the pages
+- videos are not centered
+- "teaser" of the different articles are not shown
+- how to delete HEAD page?
+- bullet list on Step 0 page (bottom of page)
 
 ### done
 - get feedback for the VR map
