@@ -15,19 +15,24 @@ Two key differences can be observed in the existing literature. First, the exten
 Second, if a government is then in place, AI can also be used within its activities to achieve certain benefits.<br>
 ### AI in Politics and political campaigns
 ...<br>
-[Read more...](ai_and_politics.md)<br>
+[Read more...](ai_and_politics.md)
+<br><br>
 ### AI in Government
 ...<br>
-[Read more...](ai_and_government.md)<br>
+[Read more...](ai_and_government.md)
+<br><br>
 ## Benefits of AI in Politics?
 ...<br>
-[Read more...](benefits.md)<br>
+[Read more...](benefits.md)
+<br><br>
 ## Risks of AI in Politics?
 ...<br>
-[Read more...](risks.md)<br>
+[Read more...](risks.md)'
+<br><br>
 ## Sources / Feedback / Contact
 ...<br>
-[Read more...](feedback.md)<br>
+[Read more...](feedback.md)
+<br><br>
 
 # Template
 
