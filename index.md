@@ -11,7 +11,7 @@ It should also be a platform, to share your thoughts and get in touch. Feel free
 - [What are Existential Risks?](/pages/existential_risks.md)
 - [What is Artificial Intelligence?](pages/definition_usage.md)  
 - [How is AI used in Politics? How are Politics affected by AI?](/pages/ai_and_politics.md)
-- Is there a connection between Artificial Intelligence, Politics and Existential Risks?
+- [Is there a connection between Artificial Intelligence, Politics and Existential Risks?](/pages/connection.md)
 
 ## Sources / Feedback / Contact
 ...<br>
