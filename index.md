@@ -1,41 +1,18 @@
-# Artificial Intelligence and Politics
+# The Connection between the usage of Artificial Intelligence, Politics and Existential Risks
 ![AI](assets/img/artificialintelligence.jpg)<br><br>
-Artificial Intelligence is an Existential Risk, that
-#### Table of Contents
-- [Defintion](#definition-ai)  
-- [The Use of AI in General](#the-use-of-ai-in-general) 
-- How is AI used in Politics? How are Politics affected by AI?
 
-## Definition AI
-Defining the term artificial intelligence seems to be extremely difficult, as there are [entire papers](https://arxiv.org/pdf/1210.1568.pdf) in the literature just defining the term. This shows how complex the whole topic of artificial intelligence is. <br>
-It is therefore essential to take a closer look at this topic and, especially in times of digitalisation, to deal more with the complexity, the advantages but also the risks.
-<br>
-[Read more...](definition_usage.md)
+## About
+##### Hello & Welcome!
+I’m Hannah, 21 years old and I’m studying Digital Transformation in Business and Society with focus on Information Systems and Digital Communication.<br>
+This website was created as part of a project for the course "Navigating the Digital World" at the University of Essex in the autumn semester 2022. The whole project was themed “How are digital identities connected to existential risks?” and the aim was to explore digital identities, existential risks and critical thinking. Within this webpage I want to share my thoughts about the connection between Artificial Intelligence, Politics and Existential risks and to cricically evaluate this topic.<br>
+It should also be a platform, to share your thoughts and get in touch. Feel free & enjoy! :)
 
-## The Use of AI in General
-...
+## Table of Contents
+- [What are Existential Risks?](/pages/existential_risks.md)
+- [What is Artificial Intelligence?](pages/definition_usage.md)  
+- [How is AI used in Politics? How are Politics affected by AI?](/pages/ai_and_politics.md)
+- Is there a connection between Artificial Intelligence, Politics and Existential Risks?
 
-## How is AI used in Politics? How are Politics affected by AI?
-As the title of this website describes, the following section will focus on the connection between artificial intelligence and politics, as it is becoming increasingly relevant not only in everyday private life, but also in public life. According to the Harward Business Review: "Applications of artificial intelligence to the public sector are broad and growing, with early experiments taking place around the world." (Martinho-Truswell, Emma (2018-01-26). "How AI Could Help the Public Sector". Harvard Business Review. Retrieved 2018-12-31.)<br><br>
-Two key differences can be observed in the existing literature. First, the extent to which AI impacts on campaigning, on ... and on .... <br>
-Second, if a government is then in place, AI can also be used within its activities to achieve certain benefits.<br>
-### AI in Politics and political campaigns
-...<br>
-[Read more...](ai_and_politics.md)
-<br><br>
-### AI in Government
-...<br>
-[Read more...](ai_and_government.md)
-<br><br>
-## Benefits of AI in Politics?
-...<br>
-[Read more...](benefits.md)
-<br><br>
-## Risks of AI in Politics?
-...<br>
-[Read more...](risks.md)'
-<br><br>
 ## Sources / Feedback / Contact
 ...<br>
-[Read more...](feedback.md)
-<br><br>
+
