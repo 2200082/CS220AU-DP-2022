@@ -1,6 +1,10 @@
 # Artificial Intelligence and Politics
 ![AI](assets/img/artificialintelligence.jpg)<br><br>
 Artificial Intelligence is an Existential Risk, that
+#### Table of Contents
+- [Defintion](#definition-ai)  
+- [The Use of AI in General](#the-use-of-ai-in-general) 
+- How is AI used in Politics? How are Politics affected by AI?
 
 ## Definition AI
 Defining the term artificial intelligence seems to be extremely difficult, as there are [entire papers](https://arxiv.org/pdf/1210.1568.pdf) in the literature just defining the term. This shows how complex the whole topic of artificial intelligence is. <br>
