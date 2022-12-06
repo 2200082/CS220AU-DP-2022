@@ -1,5 +1,5 @@
 # Artificial Intelligence and Politics
-![AI](assets/img/artificial-intelligence.jpg)<br><br>
+![AI](assets/img/artificialintelligence.jpg)<br><br>
 Artificial Intelligence is an Existential Risk, that
 
 ## Definition AI
