@@ -27,3 +27,4 @@ Again, if you want to gain deeper knowledge about the existential risk of Climat
 -	Wars 
 <br><br>
 ## Risks
+![Risks](/assets/img/risks.png)
