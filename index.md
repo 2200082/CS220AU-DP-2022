@@ -3,7 +3,9 @@
 Artificial Intelligence is an Existential Risk, that
 
 ## Definition AI
-... <br>
+Defining the term artificial intelligence seems to be extremely difficult, as there are [entire papers](https://arxiv.org/pdf/1210.1568.pdf) in the literature just defining the term. This shows how complex the whole topic of artificial intelligence is. <br>
+It is therefore essential to take a closer look at this topic and, especially in times of digitalisation, to deal more with the complexity, the advantages but also the risks.
+<br>
 [Read more...](definition_usage.md)
 
 ## The Use of AI in General
