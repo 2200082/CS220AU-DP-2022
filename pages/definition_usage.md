@@ -5,10 +5,10 @@ It is therefore essential to take a closer look at this topic and, especially in
 **Oxford Languages** has found a relatively simple definition and describes artificial intelligence as: 
 > *„the theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages”.*
 
-<br><br>
 [**Accenture**](https://www.accenture.com/us-en/insights/artificial-intelligence-summary-index) describes AI as:
 > *“Artificial intelligence is a constellation of many different technologies working together to enable machines to sense, comprehend, act, and learn with human-like levels of intelligence. Maybe that’s why it seems as though everyone’s definition of artificial intelligence is different: AI isn’t just one thing.”*
-<br><br>
+<br>
+
 ## Narrow AI vs. General AI
 [Accenture](https://www.accenture.com/us-en/insights/artificial-intelligence-summary-index) deeper differentiates between so-called **narrow (or "weak")** AI and **general (or "strong")** AI:
 #### Narrow (or "weak") AI
@@ -16,7 +16,7 @@ It is therefore essential to take a closer look at this topic and, especially in
 - Weather apps
 - Digital assistants
 - Software that analyzes data to optimize a given business function 
-<br>
+
 These systems are powerful, but the playing field is narrow: They tend to be focused on driving efficiencies. But, with the right application, narrow AI has immense transformational power—and it continues to influence how we work and live on a global scale.”<br>
 
 #### General (or "strong") AI
