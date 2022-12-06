@@ -27,6 +27,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
+- 2022-12-06: feedback with Mahati, i have to restructure everything!!! no more overviewy things, more a specific risk -> decided on AI in politics
 - 2022-11-24: decided on a new webpage template, first steps with that, implemented some contents already, still struggling with embedding images, started with overview DI-ER
 - 2022-11-19: created some more content, digitized VR map
 - 2022-11-15: seminar, my presentation, feedback on others presentations, found a peer-feedback partner: aya :), chatted with Krisz about webpage layout template
