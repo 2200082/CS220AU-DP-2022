@@ -1,5 +1,28 @@
 # Artificial Intelligence and Politics
 
+Artificial Intelligence is an Existential Risk, that
+
+## Definition AI
+...
+
+## The Use of AI in General
+...
+
+## How is AI used in Politics? How are Politics affected by AI?
+...
+
+## Benefits of AI in Politics?
+...
+
+## Risks of AI in Politics?
+...
+
+## Sources / Feedback / Contact
+...
+
+
+# Template
+
 Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
 ## Hyperlinks
