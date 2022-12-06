@@ -4,6 +4,7 @@ Artificial Intelligence is an Existential Risk, that
 
 ## Definition AI
 ...
+[Read more...](definition_usage.md)
 
 ## The Use of AI in General
 ...
@@ -14,9 +15,10 @@ Two key differences can be observed in the existing literature. First, the exten
 Second, if a government is then in place, AI can also be used within its activities to achieve certain benefits.<br>
 #### AI in Politics and political campaigns
 ...
+[Read more...](ai_and_politics.md)<br>
 #### AI in Government
 ...
-
+[Read more...](ai_and_government.md)<br>
 ## Benefits of AI in Politics?
 ...
 
