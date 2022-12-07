@@ -15,11 +15,13 @@ It should also be a platform, to share your thoughts and get in touch.<br>
 Feel free & enjoy! :)
 </p>
 
-## Table of Contents
-- [What are Existential Risks?](/pages/existential_risks.md)
-- [What is Artificial Intelligence?](pages/definition_usage.md)  
-- [How is AI used in Politics? How are Politics affected by AI?](/pages/ai_and_politics.md)
-- [Blog: Is there a connection between Artificial Intelligence, Politics and Existential Risks?](/pages/connection.md)
+## Table of Blogposts
+- Foundations & Basics: [Generations & VR-Map](/pages/basics.md)
+- Approach - What are [Digital Identities](/pages/digital_identities.md) 
+- Approach - What are [Existential Risks?](/pages/existential_risks.md)
+- What is [Artificial Intelligence?](pages/definition_usage.md)  
+- How is AI used in Politics? How are Politics affected by AI? [Politics & AI](/pages/ai_and_politics.md)
+- Is there a connection between Artificial Intelligence, Politics and Existential Risks?[A Collection of Thoughts](/pages/connection.md)
 
 ## Sources / Feedback / Contact
 #### Sources
