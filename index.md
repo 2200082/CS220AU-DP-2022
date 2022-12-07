@@ -15,6 +15,7 @@ Within this webpage I want to share my thought-process about digital identitites
 It should be therefore a platform, for me to develop some knowledge and personal skills, share my thoughts and if you like to, get in touch about that topic. If you want to know what I learned for myself by creating this website, you can have a lot at my personal development site.
 Feel free & enjoy! :)
 </p>
+
 ## Findings
 ...
 
