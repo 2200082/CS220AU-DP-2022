@@ -33,11 +33,15 @@ Feel free & enjoy! :)
 Here I have linked my references and further links so that, if you have the time and the inclination, you can look into the subject in more detail. 
 - ...
 - ...
+
+
 #### Further Literature
 I also linked are the websites of my fellow students who were also part of the project and may have been able to gather completely different views or insights.
 <br><br>
 - ... 
 - ...
+
+
 #### Feedback / Contact
 If you still have questions, feel free to contact me via the following channels:
 -	[LinkedIn](https://www.linkedin.com/in/hannah-bittl-144974225)
