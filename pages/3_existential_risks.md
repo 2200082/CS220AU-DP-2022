@@ -24,7 +24,16 @@ The following risks were also mentioned sporadically:
 - Other emerging technologies: forms of geo-engineering and atomic manufacturing
 -	naturally occurring existential threats (asteroids, …)
 -	Engineered pandemics
--	Wars 
+-	Wars (in general)
 <br><br>
 ## Risks
-![Risks](/assets/img/risks.png)
+What I also found very exciting was when, in my research, I came across a website that not only listed or described the existential risks, but also indicated with what probability they could occur: <br><br>
+![Risks](/assets/img/risks.png)<br><br>
+Again, I have no idea what to do with this information, but I found the insight very exciting!
+<br><br>
+Now that I have been able to get an overview of various existential risks, I would like to pick out one of them to take a closer look at. In doing so, I have chosen artificial intelligence. Above all, the fact that the use of AI does not have to lead directly to something bad motivated me to find out more about the topic and to look at both the opportunities and the possible influence on existential risks. Therefore, in my next blog post, I would like to go into more detail about AI in order to be able to derive possible dangers, areas of application or simply next research steps from there.
+<br><br>
+
+Back to the Post about [Digital Identities](2_digital_identities.md)!<br>
+Take me to the next Post about [Artificial Intelligence](4_ai.md)!<br>
+
