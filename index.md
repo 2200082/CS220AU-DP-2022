@@ -1,5 +1,6 @@
 # Snappy Title
-#### A personal Exploration of Artificial Intelligence, Politics and Existential Risks
+###  - A personal Exploration of Artificial Intelligence, Politics and Existential Risks - 
+<br>
 <p align="center">
   <img src="assets/img/artificialintelligence.jpg">
 </p>
