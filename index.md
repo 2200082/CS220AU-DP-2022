@@ -19,7 +19,7 @@ Feel free & enjoy! :)
 - [What are Existential Risks?](/pages/existential_risks.md)
 - [What is Artificial Intelligence?](pages/definition_usage.md)  
 - [How is AI used in Politics? How are Politics affected by AI?](/pages/ai_and_politics.md)
-- [Is there a connection between Artificial Intelligence, Politics and Existential Risks?](/pages/connection.md)
+- [Blog: Is there a connection between Artificial Intelligence, Politics and Existential Risks?](/pages/connection.md)
 
 ## Sources / Feedback / Contact
 #### Sources
@@ -36,7 +36,7 @@ If you still have questions, feel free to contact me via the following channels:
 -	[LinkedIn](https://www.linkedin.com/in/hannah-bittl-144974225)
 -	E-Mail: hb22656@essex.ac.uk
 -	[GitHub](https://github.com/2200082)
-</p>
+
 If you like, you are also very welcome to leave feedback! <br>
 I am open to constructive criticism, suggestions for improvement and other views, as I think this is a topic that can be better understood through discourse.
 <br><br>
