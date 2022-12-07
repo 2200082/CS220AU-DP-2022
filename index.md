@@ -20,12 +20,12 @@ Feel free & enjoy! :)
 ...
 
 ## Blogposts
-- Foundations & Basics: [Generations & VR-Map](/pages/1_basics.md)
-- Approach - What are [Digital Identities](/pages/2_digital_identities.md)?
-- Approach - What are [Existential Risks](/pages/3_existential_risks.md)?
-- What is [Artificial Intelligence](pages/4_ai.md)? 
-- How is AI used in Politics? How are Politics affected by AI? [Politics & AI](/pages/5_ai_and_politics.md)
-- Is there a connection between Artificial Intelligence, Politics and Existential Risks? [A Collection of Thoughts](/pages/6_connection.md)
+- Foundations & Basics: [2022-10-11: Generations & VR-Map](/pages/1_basics.md)
+- Approach - What are [2022-10-18: Digital Identities](/pages/2_digital_identities.md)?
+- Approach - What are [2022-10-25: Existential Risks](/pages/3_existential_risks.md)?
+- What is [2022-11-01: Artificial Intelligence](pages/4_ai.md)? 
+- How is AI used in Politics? How are Politics affected by AI? [2022-11-08: Politics & AI](/pages/5_ai_and_politics.md)
+- Is there a connection between Artificial Intelligence, Politics and Existential Risks? [2022-11-15: A Collection of Thoughts](/pages/6_connection.md)
 
 ## Sources / Feedback / Contact
 #### Sources
