@@ -27,7 +27,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
-- 2022-12-07: restructuring the old blogposts, as they still can be part of my webpage
+- 2022-12-07: restructuring the old blogposts, as they still can be part of my webpage; updated index page, created blogposts 1-3
 - 2022-12-07: again chat with Krisz, now I have a deeper understanding of what I want to do
 - 2022-12-06: Feedback with Krisz, talking through new topic, collected some ideas
 - 2022-12-06: feedback with Mahati, i have to restructure everything!!! no more overviewy things, more a specific risk -> decided on AI in politics
@@ -50,20 +50,14 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 ### general
 - update portfolio overview
 - find out how to embed images / videos
-- create content
-  - refine digital identities part
-  - refine existential risks part
-  - overview: connection between DI - ER
-  - think about questions for critical thinking
+- create content / blogposts
 - … <br>
 ### problems @krisz
 - images are not shown on the pages
-- videos are not centered
-- "teaser" of the different articles are not shown
-- how to delete HEAD page?
-- bullet list on Step 0 page (bottom of page)
 
 ### done
+- refine digital identities part
+- refine existential risks part
 - get feedback for the VR map
 - find out how to change the website layout
 - find a peer-feedback-partner!!
