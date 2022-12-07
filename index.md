@@ -1,4 +1,5 @@
-# The Connection between the usage of Artificial Intelligence, Politics and Existential Risks
+# Snappy Title
+#### A personal Exploration of Artificial Intelligence, Politics and Existential Risks
 <p align="center">
   <img src="assets/img/artificialintelligence.jpg">
 </p>
@@ -15,7 +16,7 @@ It should also be a platform, to share your thoughts and get in touch.<br>
 Feel free & enjoy! :)
 </p>
 
-## Table of Blogposts
+## Blogposts
 - Foundations & Basics: [Generations & VR-Map](/pages/basics.md)
 - Approach - What are [Digital Identities](/pages/digital_identities.md) 
 - Approach - What are [Existential Risks?](/pages/existential_risks.md)
