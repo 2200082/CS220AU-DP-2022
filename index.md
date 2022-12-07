@@ -16,6 +16,8 @@ and to cricically evaluate this topic.<br>
 It should also be a platform, to share your thoughts and get in touch.<br>
 Feel free & enjoy! :)
 </p>
+## Findings
+...
 
 ## Blogposts
 - Foundations & Basics: [Generations & VR-Map](/pages/1_basics.md)
@@ -23,7 +25,7 @@ Feel free & enjoy! :)
 - Approach - What are [Existential Risks?](/pages/3_existential_risks.md)
 - What is [Artificial Intelligence?](pages/4_ai.md)  
 - How is AI used in Politics? How are Politics affected by AI? [Politics & AI](/pages/5_ai_and_politics.md)
-- Is there a connection between Artificial Intelligence, Politics and Existential Risks?[A Collection of Thoughts](/pages/6_connection.md)
+- Is there a connection between Artificial Intelligence, Politics and Existential Risks? [A Collection of Thoughts](/pages/6_connection.md)
 
 ## Sources / Feedback / Contact
 #### Sources
