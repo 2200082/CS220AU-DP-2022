@@ -1,12 +1,12 @@
 # Existential Risks
-While searching for definitions for the term "existential risk", I found an interesting [paper](https://www.fhi.ox.ac.uk/Existential-risk-and-existential-hope.pdf) that compares and evaluates different definitions. If you’re more interested in that, go ahead and have a look! <br>
+At the beginning, I could relate more to the term "existential risks" than to the term "digital identities". These must be risks of some kind that threaten the existence (of humanity?). In order to broaden my understanding of this, I first went in search of definitions of the term. It was striking that there are entire [papers](https://www.fhi.ox.ac.uk/Existential-risk-and-existential-hope.pdf) that only deal with the definition of "existential risks" - it seems, again, that it is a very complex topic. If you’re more interested in that, go ahead and have a look at that linked paper, it is very interesting and worth aread!! <br>
 For me personally, the following definition is the most appropriate.<br>
 > **Existential Risk**: An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the permanent and drastic destruction of its potential for desirable future development. 
 
 I also noticed during my research that people often talk about global catastrophic risk or existential threat. Of course, these terms can be specified more precisely, but in this project, we regard them as synonyms. <br><br>
-So let's now have a look at different existential risks. (Source: https://futureoflife.org/existential-risk/existential-risk/)
+During my research I found a [Webpage](https://futureoflife.org/existential-risk/existential-risk/), that collected the following Existential Risks:
 
-#### Nuclear war...
+#### "Nuclear war...
 ...was the first man-made global catastrophic risk, as a global war could kill a large percentage of the human population. As more research into nuclear threats was conducted, scientists realized that the resulting nuclear winter could be even deadlier than the war itself, potentially killing most people on earth.
 
 #### Biotechnology and genetics...
@@ -16,9 +16,11 @@ So let's now have a look at different existential risks. (Source: https://future
 ... has long been associated with science fiction, but it's a field that's made significant strides in recent years. As with biotechnology, there is great opportunity to improve lives with AI, but if the technology is not developed safely, there is also the chance that someone could accidentally or intentionally unleash an AI system that ultimately causes the elimination of humanity.<br>
 
 #### Climate change...
-... is a growing concern that people and governments around the world are trying to address. As the global average temperature rises, droughts, floods, extreme storms, and more could become the norm. The resulting food, water and housing shortages could trigger economic instabilities and war. While climate change itself is unlikely to be an existential risk, the havoc it wreaks could increase the likelihood of nuclear war, pandemics or other catastrophes. <br>
+... is a growing concern that people and governments around the world are trying to address. As the global average temperature rises, droughts, floods, extreme storms, and more could become the norm. The resulting food, water and housing shortages could trigger economic instabilities and war. While climate change itself is unlikely to be an existential risk, the havoc it wreaks could increase the likelihood of nuclear war, pandemics or other catastrophes." <br>
 
 #### other existential risks:
+I have found many other sources, most of which agree with the Existential Risks just listed. <br>
+The following risks were also mentioned sporadically:
 - Other emerging technologies: forms of geo-engineering and atomic manufacturing
 -	naturally occurring existential threats (asteroids, …)
 -	Engineered pandemics
