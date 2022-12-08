@@ -76,6 +76,7 @@ ASI is the highest level in which "Artificial Superintelligence (ASI) would be c
 The aim of this section of my research was to gain a basic understanding of AI and to derive the next steps of my research. With the realisation that AI has three levels, and the highest level - Artificial Superintelligence - would be able to outperform humans, I can confirm my one idea that AI itself can pose an existential risk. Moreover, AI is present in so many everyday situations that I would like to take a closer look at the extent to which AI can possibly have an indirect effect on existential risks with an intermediate step.<br>
 Therefore, I will now divide my research into two parts: On the one hand, AI as an existential risk and, on the other, AI as an indirect influence on existential risks.
 <br><br>
+## Navigation
 Back to the Post about [Existential Risks](3_existential_risks.md)!<br>
 Take me to the Post about [Artificial Intelligence as an Existential Risk](5_ai_as_er.md)!<br>
 Take me to the Post about [Artificial Intelligence as indirect influence on Existential Risks](6_ai_and_politics.md)!<br>
