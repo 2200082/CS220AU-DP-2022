@@ -10,7 +10,6 @@ According to spiceworks.com, ASI is able to acquire and develop all these human 
   <img src="/assets/img/asi.jpg">
 </p>
 
-
 If you take a closer look at when such a state of Artificial Super Intelligence could possibly occur, opinions differ. The majority of opinions, however, are found in a time span of 20 to 30 years: Louis Rosenberg - computer scientist and entrepreneur - speaks of 2030, Ray Kurzweil - computer scientist - of 2045 and Jurgen Schmidhuber - co-founder of NNAISENSE, a Swiss AI startup - of 2050. However, no one can predict with certainty whether and when such Artificial Superintelligence will exist ([levity.ai](https://levity.ai/blog/general-ai-vs-narrow-ai)).
 ## Characteristics
 ...
