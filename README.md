@@ -27,7 +27,8 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
-- 2022-12-07: restructuring the old blogposts, as they still can be part of my webpage; updated index page, created blogposts 1-3
+- 2022-12-08: created blogpost 4 (AI), updated index page
+- 2022-12-07: restructuring the old blogposts, as they still can be part of my webpage; updated index page, created blogposts 1 (basics), 2 (digital identities), 3 (existential risks), 0 (personal development) and the index page
 - 2022-12-07: again chat with Krisz, now I have a deeper understanding of what I want to do
 - 2022-12-06: Feedback with Krisz, talking through new topic, collected some ideas
 - 2022-12-06: feedback with Mahati, i have to restructure everything!!! no more overviewy things, more a specific risk -> decided on AI in politics
@@ -49,13 +50,21 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ### general
 - update portfolio overview
-- find out how to embed images / videos
-- create content / blogposts
+- update blogpost personal development
+- create blogpost ai as an er
+- create blogpost ai as indirect influence on er
+- create more?
 - … <br>
 ### problems @krisz
-- images are not shown on the pages
+- none
 
 ### done
+- create blogpost ai
+- create blogpost basics
+- create blogpost digital identities
+- create blogpost existential risks
+- create blogpost personal development
+- find out how to embed images / videos
 - refine digital identities part
 - refine existential risks part
 - get feedback for the VR map
