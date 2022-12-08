@@ -1,4 +1,16 @@
 # How is Artificial Intelligence used in Politics? How are Politics affected by AI?
+
+https://www.google.com/search?client=firefox-b-d&q=ai+and+politics
+https://en.wikipedia.org/wiki/Artificial_intelligence_in_government
+https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf
+https://academic.oup.com/edited-volume/41989/chapter/355439874
+https://www.coe.int/en/web/commissioner/-/artificial-intelligence-intelligent-politics-challenges-and-opportunities-for-media-and-democracy
+https://www.analyticssteps.com/blogs/how-artificial-intelligence-ai-can-be-used-politics-government
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8664495
+
+
+
+
 As the title of this website describes, the following section will focus on the connection between artificial intelligence and politics, as it is becoming increasingly relevant not only in everyday private life, but also in public life. According to the Harward Business Review: "Applications of artificial intelligence to the public sector are broad and growing, with early experiments taking place around the world." (Martinho-Truswell."How AI Could Help the Public Sector". Harvard Business Review. Retrieved)<br><br>
 Two key differences can be observed in the existing literature. 
 First, if a government is in place, AI can be used within its activities to achieve certain benefits.<br>
