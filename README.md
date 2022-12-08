@@ -55,8 +55,9 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 - create blogpost ai as indirect influence on er
 - create more?
 - … <br>
-### problems @krisz
-- none
+### questions @krisz
+- what exactly should be submitted on FASER?
+- peer-feedback? how and when?
 
 ### done
 - create blogpost ai
