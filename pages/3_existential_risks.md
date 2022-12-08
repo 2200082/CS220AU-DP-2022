@@ -8,18 +8,22 @@ During my research I found a [Webpage](https://futureoflife.org/existential-risk
 
 #### "Nuclear war...
 <img width="80" height="80" align="left" src="/assets/img/nuclear.png">
+
 ...was the first man-made global catastrophic risk, as a global war could kill a large percentage of the human population. As more research into nuclear threats was conducted, scientists realized that the resulting nuclear winter could be even deadlier than the war itself, potentially killing most people on earth.
 
 #### Biotechnology and genetics...
 <img width="80" height="80" align="left" src="/assets/img/biotechnology.png">
+
 ... often inspire as much fear as excitement, as people worry about the possibly negative effects of cloning, gene splicing, gene drives, and a host of other genetics-related advancements. While biotechnology provides incredible opportunity to save and improve lives, it also increases existential risks associated with manufactured pandemics and loss of genetic diversity
 
 #### Artificial intelligence (AI)...
 <img width="80" height="80" align="left" src="/assets/img/ai.png">
+
 ... has long been associated with science fiction, but it's a field that's made significant strides in recent years. As with biotechnology, there is great opportunity to improve lives with AI, but if the technology is not developed safely, there is also the chance that someone could accidentally or intentionally unleash an AI system that ultimately causes the elimination of humanity.<br>
 
 #### Climate change...
 <img width="80" height="80" align="left" src="/assets/img/climate.png">
+
 ... is a growing concern that people and governments around the world are trying to address. As the global average temperature rises, droughts, floods, extreme storms, and more could become the norm. The resulting food, water and housing shortages could trigger economic instabilities and war. While climate change itself is unlikely to be an existential risk, the havoc it wreaks could increase the likelihood of nuclear war, pandemics or other catastrophes." <br>
 
 #### other existential risks:
