@@ -1,3 +1,3 @@
-# AI itself as an Existential Risk
+# Artifical Intelligence itself as an Existential Risk
 ...
 ## Navigation
