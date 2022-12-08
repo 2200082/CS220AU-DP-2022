@@ -22,7 +22,7 @@ I also came across another source (miteksystems.com) that describes that people'
 
 I don't know what to do with this information at the moment, but perhaps I can draw conclusions from it at a later date.<br>
 Further research has somehow not really brought me any further, so I would now like to devote myself to the topic of existential risks.<br><br>
-
+## Navigation
 Back to the Post about [Generations & VR-Map](1_basics.md)!<br>
 Take me to the next Post about [Existential Risks](3_existential_risks.md)!<br>
 
