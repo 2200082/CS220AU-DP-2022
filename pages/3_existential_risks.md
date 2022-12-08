@@ -33,7 +33,8 @@ The following risks were also mentioned sporadically:
 -	naturally occurring existential threats (asteroids, …)
 -	Engineered pandemics
 -	Wars (in general)
-<br><br>
+
+
 ## Risks
 What I also found very exciting was when, in my research, I came across a [website](https://80000hours.org/articles/existential-risks/) that not only listed or described the existential risks, but also indicated with what probability they could occur: <br><br>
 <p align="center">
