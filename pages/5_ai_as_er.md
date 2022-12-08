@@ -46,7 +46,18 @@ Referring to the recent study published in the Journal of Artificial Intelligenc
   <img src="/assets/img/asi_threats.jpg">
 </p>
 
-##### 1. 
+##### 1. Loss of control and understanding
+...
+##### 2. The weaponization of super AI
+...
+##### 3. Failure to align human and AI goals
+...
+##### 4. Malevolent superintelligence
+...
+##### 5. The danger of nuclear attacks
+...
+##### 6. Ethical implications
+...
 
 
 ## Navigation
