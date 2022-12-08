@@ -58,7 +58,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 ### questions @krisz
 - what exactly should be submitted on FASER?
 - peer-feedback? how and when?
-- images not shown on page 3
+- images not shown on page 3 & 5
 
 ### done
 - create blogpost ai
