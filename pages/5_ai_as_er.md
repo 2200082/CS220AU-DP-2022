@@ -61,3 +61,5 @@ Referring to the recent study published in the Journal of Artificial Intelligenc
 
 
 ## Navigation
+Back to the Post about [Artificial Intelligence](4_ai.md)!<br>
+Take me to the Post about [AI as indirect Influence on Existential Risks](6_ai_and_politics.md)!<br>
