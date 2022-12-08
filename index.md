@@ -1,5 +1,5 @@
 # Snappy Title
-###  - A personal Exploration of Artificial Intelligence, Politics and Existential Risks - 
+###  - A personal Exploration of Artificial Intelligence and Existential Risks - 
 <br>
 <p align="center">
   <img src="assets/img/artificialintelligence.jpg">
@@ -24,8 +24,8 @@ Feel free & enjoy! :)
 - 2022-10-18: Approach - What are [Digital Identities](/pages/2_digital_identities.md)?
 - 2022-10-25: Approach - What are [Existential Risks](/pages/3_existential_risks.md)?
 - 2022-11-01: What is [Artificial Intelligence](pages/4_ai.md)? 
-- 2022-11-08: How is AI used in Politics? How are Politics affected by AI? [Politics & AI](/pages/5_ai_and_politics.md)
-- 2022-11-15: Is there a connection between Artificial Intelligence, Politics and Existential Risks? [A Collection of Thoughts](/pages/6_connection.md)
+- 2022-11-08: Is AI itself an Existential Risk? [AI as an Existential Risk?](/pages/5_ai_as_er.md)
+- 2022-11-15: Has AI an indirect influence on Existential Risks? [AI as an indirect Influence?](/pages/6_ai_and_politics.md)
 - What did I learn? [My personal development within this project](/pages/0_personal_development.md)
 
 ## Sources / Feedback / Contact
