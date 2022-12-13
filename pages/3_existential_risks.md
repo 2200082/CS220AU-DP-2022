@@ -7,9 +7,8 @@ I also noticed during my research that people often talk about global catastroph
 During my research I found a [Webpage](https://futureoflife.org/existential-risk/existential-risk/), that collected the following Existential Risks:
 
 #### "Nuclear war...
-<img width="80" height="80" align="left" src="/assets/img/nuclear.png">
-
-...was the first man-made global catastrophic risk, as a global war could kill a large percentage of the human population. As more research into nuclear threats was conducted, scientists realized that the resulting nuclear winter could be even deadlier than the war itself, potentially killing most people on earth.
+<!-- <img width="80" height="80" align="left" src="/assets/img/nuclear.png"> -->
+<img alt="tedor-tea" src="/assets/img/nuclear.png" height="70"></a><p>...was the first man-made global catastrophic risk, as a global war could kill a large percentage of the human population. As more research into nuclear threats was conducted, scientists realized that the resulting nuclear winter could be even deadlier than the war itself, potentially killing most people on earth.</p>
 
 #### Biotechnology and genetics...
 <img width="80" height="80" align="left" src="/assets/img/biotechnology.png">
