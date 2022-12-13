@@ -46,6 +46,6 @@ Now that I have been able to get an overview of various existential risks, I wou
 <br><br>
 
 ## Navigation
-Back to the Post about [Digital Identities](2_digital_identities.md)!<br>
-Take me to the next Post about [Artificial Intelligence](4_ai.md)!<br>
+Back to the post about [Digital Identities](2_digital_identities.md)!<br>
+Take me to the next post about [Artificial Intelligence](4_ai.md)!<br>
 
