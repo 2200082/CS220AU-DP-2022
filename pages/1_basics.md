@@ -52,12 +52,12 @@ David White also mentions that the services usually end up either in the lower l
 
 ![VR Map](/assets/img/vr_map2.png)<br><br>
 
- Feel free to think about your own personal VR map!
- <br><br>
+Feel free to think about your own personal VR map!
+<br><br>
 With the help of this newly acquired knowledge, I would like to explore the topic of existential risks in a next step and understand it more precisely.<br><br>
 ## Navigation
 Back to the [Mainpage](index.md)!<br>
-Take me to the next Post about [Digital Identities](2_digital_identities.md)!<br>
+Take me to the next post about [Digital Identities](2_digital_identities.md)!<br>
 
 
 
