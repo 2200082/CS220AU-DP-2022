@@ -1,21 +1,17 @@
-# Snappy Title
-###  - A personal Exploration of Artificial Intelligence and Existential Risks - 
+# A personal Exploration of Artificial Intelligence and Existential Risks
 <br>
 <p align="center">
   <img src="assets/img/artificialintelligence.jpg">
 </p>
 
 ## About
-<p align="center">
-Hello & Welcome! <br>
-I’m Hannah, 21 years old and I’m studying Digital Transformation in Business and Society <br>
-with focus on Information Systems and Digital Communication.<br>
-This website was created as part of a project for the course "Navigating the Digital World" at the University of Essex in the autumn semester 2022. The whole project was themed “How are digital identities connected to existential risks?” and the aim was to explore digital identities, existential risks and critical thinking. <br>
+Hello & Welcome! 
+<br><br>
+I’m Hannah, 21 years old and I’m studying Digital Transformation in Business and Society with focus on Information Systems and Digital Communication. This website was created as part of a project for the course "Navigating the Digital World" at the University of Essex in the autumn semester 2022. The whole project was themed “How are digital identities connected to existential risks?” and the aim was to explore digital identities, existential risks and critical thinking. <br>
 Within this webpage I want to share my thought-process about digital identitites, existential risks, AI and the use of AI in politics and the connection between Artificial Intelligence, Politics and Existential risks. <br>
-It should be therefore a platform, for me to develop some knowledge and personal skills, share my thoughts and if you like to, get in touch about that topic. If you want to know what I learned for myself by creating this website, <br>
-you can have a look at my personal development site.<br>
+It should be therefore a platform, for me to develop some knowledge and personal skills, share my thoughts and if you like to, get in touch about that topic. If you want to know what I learned for myself by creating this website, you can have a look at my personal development site.
+<br><br>
 Feel free & enjoy! :)
-</p>
 
 ## Findings
 ...
@@ -29,21 +25,7 @@ Feel free & enjoy! :)
 - 2022-11-15: Has AI an indirect influence on Existential Risks? [AI as an indirect Influence?](/pages/6_ai_and_politics.md)
 - What did I learn? [My personal development within this project](/pages/0_personal_development.md)
 
-## Sources / Feedback / Contact
-#### Sources
-Here I have linked my references and further links so that, if you have the time and the inclination, you can look into the subject in more detail. 
-- ...
-- ...
-
-
-#### Further Literature
-I also linked are the websites of my fellow students who were also part of the project and may have been able to gather completely different views or insights.
-<br><br>
-- ... 
-- ...
-
-
-#### Feedback / Contact
+## Feedback / Contact
 If you still have questions, feel free to contact me via the following channels:
 -	[LinkedIn](https://www.linkedin.com/in/hannah-bittl-144974225)
 -	E-Mail: hb22656@essex.ac.uk
@@ -51,7 +33,4 @@ If you still have questions, feel free to contact me via the following channels:
 
 If you like, you are also very welcome to leave feedback! <br>
 I am open to constructive criticism, suggestions for improvement and other views, as I think this is a topic that can be better understood through discourse.
-<br><br>
-I wish you all the best & see you soon! <br>
-Hannah :)
 
