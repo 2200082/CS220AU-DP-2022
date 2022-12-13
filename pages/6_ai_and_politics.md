@@ -1,4 +1,4 @@
-# How is Artificial Intelligence used in Politics? How are Politics affected by AI?
+# Indirect Influence of AI on Existential Risks: AI in Politics
 
 In my last blog post, I considered at what point artificial intelligence itself becomes directly an existential risk to the earth’s population. <br>
 Artificial Intelligence itself is not inherently an existential risk. Only the "highest" level of it, Artificial Superintelligence, can pose a threat to humanity in the form of cyborgs.
