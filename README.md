@@ -16,8 +16,8 @@ In order to answer this question, this portfolio will look at digital identities
 ## Portfolio items
 This portfolio contains the following:
 
-1. **website** exploring digital identities, existential risks and critical thinking.
-2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file.
+1. **website** exploring digital identities, existential risks and critical thinking: [Link](2200082.github.io/CS220AU-DP-2022/)
+2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file & the [personal development page](https://2200082.github.io/CS220AU-DP-2022/pages/0_personal_development.html) on my website
 3. **portfolio overview** providing a succinct overview of the portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
 
 After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
