@@ -29,9 +29,9 @@ As this site is still under construction and will evolve with each blogpost, I w
 
 ## Feedback / Contact
 If you still have questions, feel free to contact me via the following channels:
--	[LinkedIn](https://www.linkedin.com/in/hannah-bittl-144974225)
+-	LinkedIn-Profile: [here](https://www.linkedin.com/in/hannah-bittl-144974225)
 -	E-Mail: hb22656@essex.ac.uk
--	[GitHub](https://github.com/2200082)
+-	GitHub Repositories: [here](https://github.com/2200082)
 
 If you like, you are also very welcome to leave feedback! <br>
 I am open to constructive criticism, suggestions for improvement and other views, as I think this is a topic that can be better understood through discourse.
