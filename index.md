@@ -23,8 +23,8 @@ As this site is still under construction and will evolve with each blogpost, I w
 - 2022-10-18: Approach - What are [Digital Identities](/pages/2_digital_identities.md)?
 - 2022-10-25: Approach - What are [Existential Risks](/pages/3_existential_risks.md)?
 - 2022-11-01: What is [Artificial Intelligence](pages/4_ai.md)? 
-- 2022-11-08: Is AI itself an Existential Risk? [AI as an Existential Risk?](/pages/5_ai_as_er.md)
-- 2022-11-15: Has AI an indirect influence on Existential Risks? [AI as an indirect Influence?](/pages/6_ai_and_politics.md)
+- 2022-11-08: Is AI itself an Existential Risk? [The threat of Artificial Superintelligence](/pages/5_ai_as_er.md)
+- 2022-11-15: Has AI an indirect influence on Existential Risks? [AI as an indirect Influence on Existential Risks](/pages/6_ai_and_politics.md)
 - What did I learn? [My personal development within this project](/pages/0_personal_development.md)
 
 ## Feedback / Contact
