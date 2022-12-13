@@ -54,6 +54,8 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 - update blogpost personal development
 - update portfolio overview
 - create more?
+- self-assessment
+- peer-feedback
 - … <br>
 ### questions @krisz
 - what exactly should be submitted on FASER?
