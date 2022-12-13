@@ -27,6 +27,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
+- 2022-12-13: finished blogpost 5 (asi), started blogpost 6 (ai in politics)
 - 2022-12-13: in class: feedback with Krisz, smaller changes (capitalizing, images, ...), updated index site, found a solution for bullet lists
 - 2022-12-08: created blogpost 4 (AI), updated index page
 - 2022-12-07: restructuring the old blogposts, as they still can be part of my webpage; updated index page, created blogposts 1 (basics), 2 (digital identities), 3 (existential risks), 0 (personal development) and the index page
@@ -50,8 +51,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 ## TODO
 
 ### general
-- finish blogpost 5: ai as an er
-- create blogpost 6: ai as indirect influence on er
+- finish blogpost 6: ai as indirect influence on er / AI in politics
 - update blogpost personal development
 - update portfolio overview
 - create more?
@@ -64,6 +64,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 - images not shown on page 3 & 5
 
 ### done
+- finish blogpost 5: ai as an er / ASI
 - create blogpost 4: ai
 - create blogpost 1: basics
 - create blogpost 2: digital identities
