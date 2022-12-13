@@ -16,7 +16,7 @@ If you want to know what I learned for myself by creating this website, you can 
 Feel free & enjoy! :)
 
 ## Findings
-...
+As this site is still under construction and will evolve with each blogpost, I would like to present here the results I have obtained so far:
 
 ## Blogposts
 - 2022-10-11: Foundations & Basics: [Generations & VR-Map](/pages/1_basics.md)
