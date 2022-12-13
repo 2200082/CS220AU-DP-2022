@@ -12,7 +12,8 @@ I’m Hannah, 21 years old and I’m studying Digital Transformation in Business
 with focus on Information Systems and Digital Communication.<br>
 This website was created as part of a project for the course "Navigating the Digital World" at the University of Essex in the autumn semester 2022. The whole project was themed “How are digital identities connected to existential risks?” and the aim was to explore digital identities, existential risks and critical thinking. <br>
 Within this webpage I want to share my thought-process about digital identitites, existential risks, AI and the use of AI in politics and the connection between Artificial Intelligence, Politics and Existential risks. <br>
-It should be therefore a platform, for me to develop some knowledge and personal skills, share my thoughts and if you like to, get in touch about that topic. If you want to know what I learned for myself by creating this website, you can have a lot at my personal development site.
+It should be therefore a platform, for me to develop some knowledge and personal skills, share my thoughts and if you like to, get in touch about that topic. If you want to know what I learned for myself by creating this website, <br>
+you can have a look at my personal development site.<br>
 Feel free & enjoy! :)
 </p>
 
