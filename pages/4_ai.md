@@ -77,6 +77,6 @@ The aim of this section of my research was to gain a basic understanding of AI a
 Therefore, I will now divide my research into two parts: On the one hand, AI as an existential risk and, on the other, AI as an indirect influence on existential risks.
 <br><br>
 ## Navigation
-Back to the Post about [Existential Risks](3_existential_risks.md)!<br>
-Take me to the Post about [Artificial Intelligence as an Existential Risk](5_ai_as_er.md)!<br>
-Take me to the Post about [Artificial Intelligence as indirect influence on Existential Risks](6_ai_and_politics.md)!<br>
+Back to the post about [Existential Risks](3_existential_risks.md)!<br>
+Take me to the post about [Artificial Intelligence as an Existential Risk](5_ai_as_er.md)!<br>
+Take me to the post about [Artificial Intelligence as indirect influence on Existential Risks](6_ai_and_politics.md)!<br>
