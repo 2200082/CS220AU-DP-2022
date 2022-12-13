@@ -49,10 +49,10 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 ## TODO
 
 ### general
-- update portfolio overview
+- finish blogpost 5: ai as an er
+- create blogpost 6: ai as indirect influence on er
 - update blogpost personal development
-- create blogpost ai as an er
-- create blogpost ai as indirect influence on er
+- update portfolio overview
 - create more?
 - … <br>
 ### questions @krisz
@@ -61,11 +61,11 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 - images not shown on page 3 & 5
 
 ### done
-- create blogpost ai
-- create blogpost basics
-- create blogpost digital identities
-- create blogpost existential risks
-- create blogpost personal development
+- create blogpost 4: ai
+- create blogpost 1: basics
+- create blogpost 2: digital identities
+- create blogpost 3: existential risks
+- create blogpost 0: personal development
 - find out how to embed images / videos
 - refine digital identities part
 - refine existential risks part
