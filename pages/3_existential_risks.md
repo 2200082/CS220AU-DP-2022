@@ -4,11 +4,12 @@ For me personally, the following definition is the most appropriate.<br>
 > **Existential Risk**: An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the permanent and drastic destruction of its potential for desirable future development. 
 
 I also noticed during my research that people often talk about global catastrophic risk or existential threat. Of course, these terms can be specified more precisely, but in this project, we regard them as synonyms. <br><br>
-During my research I found a [Webpage](https://futureoflife.org/existential-risk/existential-risk/), that collected the following Existential Risks:
+During my research I found this [webpage](https://futureoflife.org/existential-risk/existential-risk/), that collected the following Existential Risks:
 
 #### "Nuclear war...
-<!-- <img width="80" height="80" align="left" src="/assets/img/nuclear.png"> -->
-<img alt="tedor-tea" src="/assets/img/nuclear.png" height="70"></a><p>...was the first man-made global catastrophic risk, as a global war could kill a large percentage of the human population. As more research into nuclear threats was conducted, scientists realized that the resulting nuclear winter could be even deadlier than the war itself, potentially killing most people on earth.</p>
+<img width="80" height="80" align="left" src="/assets/img/nuclear.png">
+
+...was the first man-made global catastrophic risk, as a global war could kill a large percentage of the human population. As more research into nuclear threats was conducted, scientists realized that the resulting nuclear winter could be even deadlier than the war itself, potentially killing most people on earth.
 
 #### Biotechnology and genetics...
 <img width="80" height="80" align="left" src="/assets/img/biotechnology.png">
