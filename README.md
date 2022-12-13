@@ -27,6 +27,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ## Log
 
+- 2022-12-13: in class: feedback with Krisz, smaller changes (capitalizing, images, ...), updated index site, found a solution for bullet lists
 - 2022-12-08: created blogpost 4 (AI), updated index page
 - 2022-12-07: restructuring the old blogposts, as they still can be part of my webpage; updated index page, created blogposts 1 (basics), 2 (digital identities), 3 (existential risks), 0 (personal development) and the index page
 - 2022-12-07: again chat with Krisz, now I have a deeper understanding of what I want to do
