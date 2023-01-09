@@ -7,7 +7,7 @@ This GitHub repository is the assignment for the [CS220AU](https://github.com/kh
 - web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
 - evaluation with the `assessment.md` and the `dp-checklist.md` files. 
 
-The **URL** of the website can be found in the sidebar, under 'About' or [here](2200082.github.io/CS220AU-DP-2022/). <br>
+The **URL** of the website can be found in the sidebar, under 'About'. <br>
 The **homepage** uses the information in the `index.md` file.<br>
 The research question to be answered with the help of this portfolio is: **How are digital identities connected to existential risks?**
 In order to answer this question, this portfolio will look at digital identities, existential risks and their interrelationship with a within this research developed focus on **AI and politics**.
@@ -23,7 +23,7 @@ I do have already some thoughts about the connection between digital identities 
 ## Portfolio items
 This portfolio contains the following:
 
-1. [**website**](2200082.github.io/CS220AU-DP-2022/) exploring digital identities, existential risks and critical thinking
+1. **website** exploring digital identities, existential risks and critical thinking
 2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file & the [personal development page](https://2200082.github.io/CS220AU-DP-2022/pages/0_personal_development.html) on my website
 3. **portfolio overview** providing a succinct overview of the portfolio, an outline of completed tasks (Log) and tasks to do (ToDo) in this `README.md` file.
 
