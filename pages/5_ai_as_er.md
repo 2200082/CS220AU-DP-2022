@@ -26,7 +26,7 @@ In the Journal of Artificial Intelligence Research 70 (2021), the following char
 
 ##### 1. Reduction in human error
 By using ASI, errors that humans usually make unavoidable can be reduced. Especially in the case of syntactic, logical, arithmetic and resource-related problems, ASI can develop logic independently and minimise errors.
-###### 2. Replace humans to accomplish risky tasks 
+##### 2. Replace humans to accomplish risky tasks 
 So while some tasks are too risky for humans (e.g. defusing a bomb) or outright impossible (e.g. working under nuclear radiation), such tasks could be accomplished with the help of superintelligent technologies such as robots. It is therefore a question of overcoming risk limitations.
 ##### 3. 24×7 Availability
 With the help of super AI, the breaks that people have between their working hours (to sleep or have free time, for example) could be bridged, creating 24/7 availability in e.g. counselling centres. 
