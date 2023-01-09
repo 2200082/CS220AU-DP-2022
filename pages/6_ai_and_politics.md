@@ -1,4 +1,9 @@
 # Indirect Influence of AI on Existential Risks: AI in Politics
+-------- <br>
+**Attention!** <br>
+This blogpost is not finished yet and is still in progress! <br>
+Check back in 2 weeks and you should be able to find a finished blogpost!<br>
+-------- <br><br>
 
 In my last blog post, I considered at what point artificial intelligence itself becomes directly an existential risk to the earth’s population. <br>
 Artificial Intelligence itself is not inherently an existential risk. Only the "highest" level of it, Artificial Superintelligence, can pose a threat to humanity.
@@ -34,14 +39,17 @@ As we could see within several presidential campaigns (Barack Obama, Narendra Mo
 On the other hand, AI can also be used not only to observe the behaviour of the population and adapt actions to it, but also to specifically influence the behaviour of the population. This can be done, for example, through AI in social media.
 <br><br>
 
+Sources that may be relevant:
+- https://www.google.com/search?client=firefox-b-d&q=ai+and+politics <br>
+- https://en.wikipedia.org/wiki/Artificial_intelligence_in_government <br>
+- https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf <br>
+- https://academic.oup.com/edited-volume/41989/chapter/355439874 <br>
+- https://www.coe.int/en/web/commissioner/-/artificial-intelligence-intelligent-politics-challenges-and-opportunities-for-media-and-democracy <br>
+- https://www.analyticssteps.com/blogs/how-artificial-intelligence-ai-can-be-used-politics-government <br>
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8664495 <br>
 
-https://www.google.com/search?client=firefox-b-d&q=ai+and+politics <br>
-https://en.wikipedia.org/wiki/Artificial_intelligence_in_government <br>
-https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf <br>
-https://academic.oup.com/edited-volume/41989/chapter/355439874 <br>
-https://www.coe.int/en/web/commissioner/-/artificial-intelligence-intelligent-politics-challenges-and-opportunities-for-media-and-democracy <br>
-https://www.analyticssteps.com/blogs/how-artificial-intelligence-ai-can-be-used-politics-government <br>
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8664495 <br>
+## Conclusion
+AI can be used to simplify political and administrative activities, but also as a means to influence election campaigns. Depending on the intended use, AI can be seen as both a support and a threat. If it is misused and, for example, a radical party wrongly comes to power, the use of AI can greatly increase the risk of existential catastrophes insofar as this party produces nuclear weapons, for example, and thus increases the risk of a nuclear war.
 
 ## Navigation
 Back to the post about [Artificial Intelligence as an Existential Risk](5_ai_as_er.md)!<br>
