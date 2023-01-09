@@ -1,7 +1,7 @@
 # Foundation: Generations & VR-Map
 
 **Welcome to this first blog post!**<br><br>
-In this first post I would like to describe my first steps into the topic of Digital Identities & Existential Risks. <br>
+In this first post I describe my first steps into the topic of Digital Identities & Existential Risks. <br>
 This is partly based on the course content from our first session in the seminar. Hopefully, this will help you to understand why it is important to deal with this topic.
 
 ### Generations 
