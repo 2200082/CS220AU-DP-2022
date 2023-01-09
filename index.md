@@ -9,7 +9,7 @@ Hello & Welcome!
 <br><br>
 I’m Hannah, 21 years old and I’m currently in my third year studying Digital Transformation in Business and Society with focus on Information Systems and Digital Communication. This website was created as part of a project for the course "Navigating the Digital World" at the University of Essex in the autumn semester 2022. The whole project was themed **“How are digital identities connected to existential risks?”** and the aim was to explore digital identities, existential risks as well as critical thinking. 
 <br><br>
-Within this webpage I want to share my thought-process about digital identitites, existential risks and AI. It should be therefore a platform, for me to develop some knowledge and personal skills, share my thoughts and if you like to, get in touch about that topic. If you want to know what I learned for myself by creating this website, you can have a look at my [personal development site](/pages/0_personal_development.md).
+Within this webpage I want to share my thought-process about digital identitites, existential risks and AI. It should be therefore a platform, for me to develop some knowledge and personal skills, share my thoughts and if you like to, get in touch about that topic. If you want to know what I learned for myself by creating this website, you can have a look at my personal development site [here](/pages/0_personal_development.md).
 <br><br>
 Enjoy! :)
 
@@ -27,7 +27,6 @@ The connection between digital identities and the existential risk of AI still h
 - 2022-11-08: Is AI itself an Existential Risk? [The threat of Artificial Superintelligence](/pages/5_ai_as_er.md)
 - In Progress: Has AI an indirect influence on Existential Risks? [AI as an indirect Influence on Existential Risks](/pages/6_ai_and_politics.md)
 - Coming soon: How are our Personal Digital Identities connected to Existential Risks?
-- What did I learn? [My personal development within this project](/pages/0_personal_development.md)
 
 ## Feedback / Contact
 If you still have questions, feel free to contact me via the following channels:
