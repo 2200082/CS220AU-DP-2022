@@ -2,7 +2,7 @@
 -------- <br>
 **Attention!** <br>
 This blogpost is not finished yet and is still in progress! <br>
-Check back in 2 weeks and you should be able to find a finished blogpost!<br>
+Check back in 2 weeks and you should be able to find a finished blogpost! :)<br>
 -------- <br><br>
 
 In my last blog post, I considered at what point artificial intelligence itself becomes directly an existential risk to the earth’s population. <br>
