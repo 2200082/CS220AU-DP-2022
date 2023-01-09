@@ -62,6 +62,6 @@ This portfolio contains the following:
 - peer-feedback
 - … <br>
 ### questions @krisz
-- images not shown on page 3 & 5
+- images not shown
 
 
