@@ -17,8 +17,7 @@ Enjoy! :)
 **Digital identity** is essentially any personal data existing online that can be traced back to the real you (blog.avast.com). **Existential risks** are a complex topic, as there are entire papers that only deal with the definition of “existential risks”, but in general one could say that an existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the permanent and drastic destruction of its potential for desirable future development. Examples are nuclear war, biotechnology and genetics and artificial intelligence. Most interesting and for me also most important was the **risk of AI**, as it’s a field that’s made significant strides in recent years. **Artificial intelligence** is a constellation of many different technologies working together to enable machines to sense, comprehend, act, and learn with human-like levels of intelligence. It is used already in many different ways in our daily life and can be differentiated in three stages: Artificial narrow (or “weak”) Intelligence, Artificial general (or “strong”) Intelligence and Artificial Superintelligence. Right now I am at the point where it cannot be said that AI in general poses an existential risk, but only the most extreme part of it: the Artificial Superintelligence....<br>
 #### Further ideas for research
 ... But I have the thesis, that even “normal” AI can pose a threat to humanity if it is abused for example in politics. This is also the state of research I am currently working on (see Blogpost 6 - [AI as an indirect Influence on Existential Risks](/pages/6_ai_and_politics.md)).<br>
-The connection between digital identities and the existential risk of AI still has to be documented with literature. My thesis is that because AI learns from existing patterns, we can influence learning and thus the effects of AI with our online behavior - both positively and negatively.
-
+The connection between digital identities and the existential risk of AI still has to be worked out with literature and a blog post created. My thesis is that because AI learns from existing patterns, we can influence learning and thus the effects of AI with our digital identities and our online behavior - both positively and negatively.
 
 ## Blogposts
 - 2022-10-11: Foundations & Basics: [Generations & VR-Map](/pages/1_basics.md)
@@ -26,7 +25,8 @@ The connection between digital identities and the existential risk of AI still h
 - 2022-10-25: Approach - What are [Existential Risks](/pages/3_existential_risks.md)?
 - 2022-11-01: What is [Artificial Intelligence](pages/4_ai.md)? 
 - 2022-11-08: Is AI itself an Existential Risk? [The threat of Artificial Superintelligence](/pages/5_ai_as_er.md)
-- 2022-11-15: Has AI an indirect influence on Existential Risks? [AI as an indirect Influence on Existential Risks](/pages/6_ai_and_politics.md)
+- In Progress: Has AI an indirect influence on Existential Risks? [AI as an indirect Influence on Existential Risks](/pages/6_ai_and_politics.md)
+- Coming soon: How are our Personal Digital Identities connected to Existential Risks?
 - What did I learn? [My personal development within this project](/pages/0_personal_development.md)
 
 ## Feedback / Contact
