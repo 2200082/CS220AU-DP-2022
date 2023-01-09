@@ -7,10 +7,16 @@ This GitHub repository is the assignment for the [CS220AU](https://github.com/kh
 - web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
 - evaluation with the `assessment.md` and the `dp-checklist.md` files. 
 
-The URL of the website can be found in the sidebar, under 'About'. <br>
-The homepage uses the information in the `index.md` file.<br>
+The **URL** of the website can be found in the sidebar, under 'About' [here](2200082.github.io/CS220AU-DP-2022/). <br>
+The **homepage** uses the information in the `index.md` file.<br>
 The research question to be answered with the help of this portfolio is: **How are digital identities connected to existential risks?**
 In order to answer this question, this portfolio will look at digital identities, existential risks and their interrelationship with a within this research developed focus on **AI and politics**.
+
+### Findings
+**Digital identity** is essentially any personal data existing online that can be traced back to the real you (blog.avast.com). **Existential risks** are a complex topic, as there are entire papers that only deal with the definition of “existential risks”, but in general one could say that an existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the permanent and drastic destruction of its potential for desirable future development. Examples are nuclear war, biotechnology and genetics and artificial intelligence. Most interesting and for me also most important was the risk of AI, as it’s a field that’s made significant strides in recent years. **Artificial intelligence** is a constellation of many different technologies working together to enable machines to sense, comprehend, act, and learn with human-like levels of intelligence. It is used already in many different ways in our daily life and can be differentiated in three stages: Artificial narrow (or “weak”) Intelligence, Artificial general (or “strong”) Intelligence and Artificial Superintelligence. Right now I am at the point where it cannot be said that AI in general poses an existential risk, but only the most extreme part of it: the **Artificial Superintelligence**… <br><br>
+
+… But I have the thesis, that even “normal” AI can pose a threat to humanity if it is abused for example in **politics**. This is also the state of research I am currently working on (see Blogpost 6 - AI as an indirect Influence on Existential Risks).<br>
+I do have already some thoughts about the connection between digital identities and the existential risk of AI but it still has to be worked out with literature and a blog post created. My thesis is that because AI learns from existing patterns, we can influence learning and thus the effects of AI with our digital identities and our online behavior - both positively and negatively.
 
 <br>
 
