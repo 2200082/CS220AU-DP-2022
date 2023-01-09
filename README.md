@@ -20,13 +20,12 @@ This portfolio contains the following:
 2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file & the [personal development page](https://2200082.github.io/CS220AU-DP-2022/pages/0_personal_development.html) on my website
 3. **portfolio overview** providing a succinct overview of the portfolio, an outline of completed tasks (Log) and tasks to do (ToDo) in this `README.md` file.
 
-After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
- 
-
 <br>
 
 ## Log
 
+- 2022-01-13: feedback session with Ayah
+- 2022-01-09: created overview / findings, small changes (feedback from Krisz), still problems with embedding images, self-assessment
 - 2022-12-13: finished blogpost 5 (asi), started blogpost 6 (ai in politics)
 - 2022-12-13: in class: feedback with Krisz, smaller changes (capitalizing, images, ...), updated index site, found a solution for bullet lists
 - 2022-12-08: created blogpost 4 (AI), updated index page
@@ -52,10 +51,7 @@ After you finish these items, complete the `dp-checklist.md` file, download it a
 
 ### general
 - finish blogpost 6: ai as indirect influence on er / AI in politics
-- update blogpost personal development
-- update portfolio overview
 - create more?
-- self-assessment
 - peer-feedback
 - … <br>
 ### questions @krisz
