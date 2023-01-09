@@ -1,4 +1,4 @@
-# A personal Exploration of Artificial Intelligence and Existential Risks
+# A Personal Exploration of Artificial Intelligence and Existential Risks
 <br>
 <p align="center">
   <img src="assets/img/artificialintelligence.jpg">
