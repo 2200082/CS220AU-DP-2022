@@ -3,7 +3,7 @@ As already indicated in the last blog post, I would like to focus more on the al
 Before I do this, however, I would first like to find out what AI actually is. <br><br>
 
 <p align="center">
-  <img src="/assets/img/hands.jpg">
+  <img src="../assets/img/hands.jpg">
 </p>
 
 ## Definition
