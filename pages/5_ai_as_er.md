@@ -6,7 +6,7 @@ To do this, I would first like to learn more about artificial superintelligence.
 
 According to spiceworks.com, ASI is able to acquire and develop all these human skills:<br><br>
 <p align="center">
-  <img src="assets/img/asi.jpg">
+  <img src="../assets/img/asi.jpg">
 </p>
 
 If you take a closer look at when such a state of Artificial Super Intelligence could possibly occur, opinions differ. The majority of opinions, however, are found in a time span of 20 to 30 years: Louis Rosenberg - computer scientist and entrepreneur - speaks of 2030, Ray Kurzweil - computer scientist - of 2045 and Jurgen Schmidhuber - co-founder of NNAISENSE, a Swiss AI startup - of 2050. However, no one can predict with certainty whether and when such Artificial Superintelligence will exist ([levity.ai](https://levity.ai/blog/general-ai-vs-narrow-ai)).
@@ -21,7 +21,7 @@ In the Journal of Artificial Intelligence Research 70 (2021), the following char
 [Spiceworks.com](https://www.spiceworks.com/tech/artificial-intelligence/articles/super-artificial-intelligence/) identified five major potential advantages of ASI:<br><br>
 
 <p align="center">
-  <img src="/assets/img/asi_adv.jpg">
+  <img src="../assets/img/asi_adv.jpg">
 </p>
 
 ##### 1. Reduction in human error
@@ -42,7 +42,7 @@ The next step will be to look at the exact risks that ASI entails: <br><br>
 Referring to the recent study published in the Journal of Artificial Intelligence Research in January 2021, it was found that "it would be almost impossible for humans to contain super AIs ([spiceworks.com](https://www.spiceworks.com/tech/artificial-intelligence/articles/super-artificial-intelligence/)). Let us now take a closer look at the risks associated with ASI in order to validate this very definitive statement.
 
 <p align="center">
-  <img src="/assets/img/asi_threats.jpg">
+  <img src="../assets/img/asi_threats.jpg">
 </p>
 
 ##### 1. Loss of control and understanding
