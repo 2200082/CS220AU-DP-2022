@@ -46,13 +46,13 @@ The distinction at the vertical level is relatively intuitive, as simply disting
 To show you the whole concept a little more practically, I have created my personal VR map here. <br>
 To do this, I first considered which digital services I am using and then entered them into the model. This is the outcome:<br><br>
 ![My VR Map](../assets/img/vr_map.png)
-<img src="../assets/img/vr_map.png"><br><br>
+<br><br>
 **Whatsapp**, for example, is on the far right for me, i.e. at the end of the resident area, because I leave a trace of myself in the chats here in a certain way. I use it mainly for personal purposes, but also occasionally for professional purposes, hence the classification in both areas. I only use **LinkedIn** for professional purposes, hence the classification at the bottom. Since I also present myself on this platform - not as strongly as on Instagram, but still noticeable - I place LinkedIn in the resident sector.<br><br>
 **Attention**: There is no right or wrong!! This is just my personal map - yours could look completely different! :)<br><br>
 David White also mentions that the services usually end up either in the lower left or upper right sector, e.g. here: <br><br>
 
 ![VR Map](../assets/img/vr_map2.png)
-<img src="../assets/img/vr_map2.png"><br><br>
+<br><br>
 
 Feel free to think about your own personal VR map!
 <br><br>
