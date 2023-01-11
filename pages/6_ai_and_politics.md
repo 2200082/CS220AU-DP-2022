@@ -1,9 +1,9 @@
 # Indirect Influence of AI on Existential Risks: AI in Politics
--------- <br>
+--------------------------------------------------------------------------------- <br>
 **Attention!** <br>
 This blogpost is not finished yet and is still in progress! <br>
 Check back in 2 weeks and you should be able to find a finished blogpost! :)<br>
--------- <br><br>
+--------------------------------------------------------------------------------- <br><br>
 
 In my last blog post, I considered at what point artificial intelligence itself becomes directly an existential risk to the earth’s population. <br>
 Artificial Intelligence itself is not inherently an existential risk. Only the "highest" level of it, Artificial Superintelligence, can pose a threat to humanity.
