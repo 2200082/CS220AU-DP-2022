@@ -58,7 +58,7 @@ To help measure my progress, I asked another student in my group for feedback on
 
 <br>
 
-### Peer-assessment
+### Peer-assessment I (Student feedback)
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -69,6 +69,17 @@ To help measure my progress, I asked another student in my group for feedback on
 | 3.1 |     |  o  |     |     |     |
 
 Feedback given by: Ayah, Student-Number: <!-- add student nb -->
+
+
+### Peer-assessment II (feedback I got from my parents)
+
+|   | 40- | 40+ | 50+ | 60+ | 70+ | 
+|---|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1.1 |     |     |  o  |     |     |
+| 1.2 |     |     |     |  o  |     |
+| 2.1 |     |     |  o  |     |     |
+| 2.2 |     |     |     |  o  |     |
+| 3.1 |     |  o  |     |     |     |
 
 
 <br>
