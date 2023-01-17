@@ -31,8 +31,9 @@ This portfolio contains the following:
 
 ## Log
 
-- 2022-01-13: feedback session with Ayah
-- 2022-01-09: created overview / findings, small changes (feedback from Krisz), still problems with embedding images, self-assessment
+- 2023-01-??: feedback session with Ayah
+- 2023-01-10: finally fixed the image-problem!!
+- 2023-01-09: created overview / findings, small changes (feedback from Krisz), still problems with embedding images, self-assessment
 - 2022-12-13: finished blogpost 5 (asi), started blogpost 6 (ai in politics)
 - 2022-12-13: in class: feedback with Krisz, smaller changes (capitalizing, images, ...), updated index site, found a solution for bullet lists
 - 2022-12-08: created blogpost 4 (AI), updated index page
