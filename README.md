@@ -32,6 +32,7 @@ This portfolio contains the following:
 ## Log
 
 - 2023-01-??: feedback session with Ayah
+- 2023-01-13: got feedback from my parents as my peer feedback partner did not respond
 - 2023-01-10: finally fixed the image-problem!!
 - 2023-01-09: created overview / findings, small changes (feedback from Krisz), still problems with embedding images, self-assessment
 - 2022-12-13: finished blogpost 5 (asi), started blogpost 6 (ai in politics)
