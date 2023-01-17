@@ -68,18 +68,19 @@ To help measure my progress, I asked another student in my group for feedback on
 | 2.2 |     |     |     |     |     |
 | 3.1 |     |     |     |     |     |
 
-Feedback given by: Ayah, Student-Number: ???
+Feedback given by: Ayah, Student-Number: 2200272
 
 
 ### Peer-assessment II (feedback I got from my parents)
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |     |     |     |
-| 1.2 |     |     |     |     |     |
+| 1.1 |     |     |     |  o  |     |
+| 1.2 |     |     |     |     |  o  |
 | 2.1 |     |     |     |     |     |
 | 2.2 |     |     |     |     |     |
-| 3.1 |     |     |     |     |     |
+| 3.1 |     |     |     |  o  |     |
 
+(Logically, they could not evaluate progress and participation because they were not in the course. ;) )
 
 <br>
