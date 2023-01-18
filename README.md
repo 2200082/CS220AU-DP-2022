@@ -30,10 +30,10 @@ This portfolio contains the following:
 <br>
 
 ## Log
-
+- 2023-01-17: feedback from Ayah, entered some small changes, nothing big, filled out the peer feedback table
+- 2023-01-18: gave Ayah feedback to webpage & her video
 - 2023-01-17: submitted my work on FASER
-- 2023-01-17: feedback session with Ayah, entered some small changes, nothing big, filled out the peer feedback table
-- 2023-01-13: got feedback from my parents as my peer feedback partner did not respond yet and time is running out
+- 2023-01-13: got feedback from my parents as my peer feedback partner did not respond yet and time is running out; It was very exciting to hear the opinions of outsiders on the subject!!
 - 2023-01-10: finally fixed the image-problem!!
 - 2023-01-09: created overview / findings, small changes (feedback from Krisz), still problems with embedding images, self-assessment
 - 2022-12-13: finished blogpost 5 (asi), started blogpost 6 (ai in politics)
